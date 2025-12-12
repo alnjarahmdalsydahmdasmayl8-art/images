@@ -24,7 +24,7 @@ You can directly reference pre-built versions of `Dockerfile` by using the `imag
 - `mcr.microsoft.com/devcontainers/typescript-node:22` (or `22-trixie`, `22-bookworm`, `22-bullseye` to pin to an OS version)
 - `mcr.microsoft.com/devcontainers/typescript-node:20` (or `20-trixie`, `20-bookworm`, `20-bullseye` to pin to an OS version)
 
-Refer to [this guide](https://containers.dev/guide/dockerfile) for more details.
+Refer to [this guide](https://containers.dev/guidesrc/typescript-node/dockerfile) for more details.
 
 You can decide how often you want updates by referencing a [semantic version](https://semver.org/) of each image. For example:
 
